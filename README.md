@@ -18,7 +18,7 @@
 ---
 
 ### 🛠️ Tech & Tools
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL ,HTML 
 - **Data & Analytics:** Power BI, Advanced Excel, ERP Systems, Portable Data Collectors
 - **Version Control:** Git, GitHub
 - **Productivity & Docs:** MS Office, Prompt Engineering for AI
